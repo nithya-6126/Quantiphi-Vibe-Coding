@@ -1,5 +1,5 @@
 import { PackageOpen } from "lucide-react";
-import ProductCard from "../components/ui/ProductCard";
+// import ProductCard from "../components/ui/ProductCard";
 
 function ProductGrid({ products, total, loading, error, sortBy, sortOptions, onSortChange, onReset }) {
   return (
